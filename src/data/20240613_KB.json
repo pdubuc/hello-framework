@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1,
+    "kb_id": "r_1",
+    "kb_parent_id": "NULL",
+    "node_label": "Chief Executive Officer",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 2,
+    "kb_id": "r_2",
+    "kb_parent_id": "r_1",
+    "node_label": "Chief Financial Officer",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 64,
+    "kb_id": "r_64",
+    "kb_parent_id": "r_1",
+    "node_label": "Chief Human Resources Officer",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 3,
+    "kb_id": "r_3",
+    "kb_parent_id": "r_1",
+    "node_label": "Chief Operating Officer",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 4,
+    "kb_id": "r_4",
+    "kb_parent_id": "r_1",
+    "node_label": "Governance Administrator",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 1,
+    "kb_id": "u_1",
+    "kb_parent_id": "r_1",
+    "node_label": "Leo Tygre",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 7,
+    "kb_id": "r_7",
+    "kb_parent_id": "r_10",
+    "node_label": "Clinical Researcher",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 9,
+    "kb_id": "r_9",
+    "kb_parent_id": "r_10",
+    "node_label": "Lab Scientist",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "SuperAdmin",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 11,
+    "kb_id": "r_11",
+    "kb_parent_id": "r_10",
+    "node_label": "Statistician",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 9,
+    "kb_id": "u_9",
+    "kb_parent_id": "r_10",
+    "node_label": "Angelo Buttamecha",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 10,
+    "kb_id": "u_10",
+    "kb_parent_id": "r_11",
+    "node_label": "Carla Distenz",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 8,
+    "kb_id": "r_8",
+    "kb_parent_id": "r_2",
+    "node_label": "Budgetary Analyst",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 2,
+    "kb_id": "u_2",
+    "kb_parent_id": "r_2",
+    "node_label": "Janis Marley",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 6,
+    "kb_id": "r_6",
+    "kb_parent_id": "r_3",
+    "node_label": "Chief Science Officer",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 3,
+    "kb_id": "u_3",
+    "kb_parent_id": "r_3",
+    "node_label": "Matfoli Essenel",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 4,
+    "kb_id": "u_4",
+    "kb_parent_id": "r_4",
+    "node_label": "Grover Adminiatti",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 13,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_4",
+    "node_label": "Enabling BP 1",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 15,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_4",
+    "node_label": "Example BP 2",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 10,
+    "kb_id": "r_10",
+    "kb_parent_id": "r_6",
+    "node_label": "Lab Supervisor",
+    "node_type": "0_role_folder",
+    "group_privilege_name": "User",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 11,
+    "kb_id": "u_11",
+    "kb_parent_id": "r_6",
+    "node_label": "Franz Essenine",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 32,
+    "kb_id": "u_32",
+    "kb_parent_id": "r_64",
+    "node_label": "Marcuso Antillare",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 12,
+    "kb_id": "u_12",
+    "kb_parent_id": "r_7",
+    "node_label": "Derek Hobart",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 14,
+    "kb_id": "u_14",
+    "kb_parent_id": "r_7",
+    "node_label": "Kara Lumen",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 16,
+    "kb_id": "u_16",
+    "kb_parent_id": "r_7",
+    "node_label": "Omelba Pepperaniam",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 18,
+    "kb_id": "u_18",
+    "kb_parent_id": "r_7",
+    "node_label": "Stef Tarien",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 13,
+    "kb_id": "u_13",
+    "kb_parent_id": "r_8",
+    "node_label": "Jontoya Inigo",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 15,
+    "kb_id": "u_15",
+    "kb_parent_id": "r_8",
+    "node_label": "Matelin Nightlitz",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 17,
+    "kb_id": "u_17",
+    "kb_parent_id": "r_8",
+    "node_label": "Quentin Rodell",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 8,
+    "kb_id": "u_8",
+    "kb_parent_id": "r_9",
+    "node_label": "Dansla Maison",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 27,
+    "kb_id": "u_27",
+    "kb_parent_id": "r_9",
+    "node_label": "Mahla Solo",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 7,
+    "kb_id": "u_7",
+    "kb_parent_id": "r_9",
+    "node_label": "Umara Vonce",
+    "node_type": "1_user_node",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "N/A"
+  },
+  {
+    "id": 80,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Artworks Process 1",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 81,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Artworks Process 2",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 68,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Dansla Maison-Owned Best Practice",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 69,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Mahla Solo-Owned Best Practice",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 84,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Mahla Solo Process for Infrastructure",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 83,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Mahla Solo Process for Product Web Site",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 82,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Umara Vance Process for Infrastructure",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 67,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Umara Vonce-Owned Best Practice",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 85,
+    "kb_id": "N/A",
+    "kb_parent_id": "r_9",
+    "node_label": "Umara Vonce Process for Product Web Site",
+    "node_type": "2_best_practice",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 99,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_1",
+    "node_label": "sdf",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 66,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Apply Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 60,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Collect Process 1",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 59,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Deliver Process 1",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 70,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Deliver Process 2",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 65,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Optimize Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 13,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo  Value Link",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 16,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo  Value Link",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 11,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Collect Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 10,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Deliver Methodology 1",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 20,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Deliver Methodology 2",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 12,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_27",
+    "node_label": "Mahla Solo Optimize Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 23,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_4",
+    "node_label": "Example process 2",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 1,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_4",
+    "node_label": "Grover Adminiatti Deliver Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 62,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Apply Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 56,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Collect Process 1",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 55,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Deliver Process 1",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 72,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Deliver Process 2",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 61,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Optimize Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 5,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Apply (Awaiting) Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 3,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Collect Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 2,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Deliver Methodology 1",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 18,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Deliver Methodology 2",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 4,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Optimize Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 14,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_7",
+    "node_label": "Umara Vonce Value Link",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 64,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Apply Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 58,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Collect Process 1",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 57,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Deliver Process 1.1a",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 71,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Deliver Process 2",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 63,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Optimize Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 98,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dasla Maison Apply Test",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 113,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "f",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 100,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Jay's Test Process",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 97,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Kohn",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 9,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Apply (Awaiting) Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 7,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Collect Methodology 1",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 6,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Collect Methodology 2",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Collect"
+  },
+  {
+    "id": 19,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Deliver Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  },
+  {
+    "id": 8,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Optimize Methodology",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Optimize"
+  },
+  {
+    "id": 15,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_8",
+    "node_label": "Dansla Maison Value Link",
+    "node_type": "4_methodology",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Apply"
+  },
+  {
+    "id": 92,
+    "kb_id": "N/A",
+    "kb_parent_id": "u_9",
+    "node_label": "Example process for Lab Supervisor",
+    "node_type": "3_process",
+    "group_privilege_name": "N/A",
+    "dcoa_status": "Deliver"
+  }
+]
